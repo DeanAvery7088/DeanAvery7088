@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-After a several year hiatus, I'm working to re-establish a career in software development.  I'm interested in the areas of game development, blockchain, and AI.  I'm currently spending time working on a Harvard course developing in Lua and C#.  
+After a several year hiatus, I'm working to re-establish a career in software development.  I'm interested in the areas of game development, blockchain, and AI.  I'm currently spending time working on a Harvard course developing in Lua and C# as well as taking courses through Udemy.  
 
 <!--
 **DeanAvery7088/DeanAvery7088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
